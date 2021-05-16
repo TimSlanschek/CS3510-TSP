@@ -1,0 +1,4 @@
+The minimum computed distance over all 29 nodes was 28020.
+The minimum computed path:
+ 1 -> 2 -> 6 -> 5 -> 8 -> 4 -> 3 -> 7 -> 9 -> 13 -> 14 -> 16 -> 24 -> 27 -> 25 -> 20 -> 26 -> 28 -> 29 -> 23 -> 21 -> 22 -> 17 -> 18 -> 19 -> 15 -> 12 -> 10 -> 11 -> 1
+The calculation ran for 60 seconds.
